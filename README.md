@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @APsheep
-- 👀 I’m interested in learning more coding langauges, practicing more math, game design, and UI/UX design.
-- 🌱 I’m currently learning at Rutgers University and specifically majoring in Computer Science and minoring in Math.
+- 👋 Hi, I’m APsheep
+- 👀 I’m interested in learning more coding langauges, practicing more math, and UI/UX design.
+- 🌱 I’m currently a student at Rutgers University and majoring in Computer Science and minoring in Mathematics.
 - 💞️ I’m looking to collaborate on any fun apps or websites.
 - 📫 How to reach me: through here or through my email.
 
